@@ -11,3 +11,6 @@ npm-debug.log
 # Sistema
 .DS_Store
 Thumbs.db
+
+# Logs de Commit
+logsdecommits.txt
